@@ -1,0 +1,6 @@
+
+{
+  "name": "Centro de Control RoboArm",
+  "description": "Interfaz web de alto rendimiento para el control de brazos robóticos mediante la API Web Serial, compatible con firmware ATmega328P. Incluye visualización 2D en tiempo real, modos manual/auto y gestión de EEPROM.",
+  "requestFramePermissions": []
+}
